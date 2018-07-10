@@ -5,6 +5,8 @@
 ## About
 Bettership partners with schools and institutions to list internship opportunities in the Denver Metro Area. We provide an improved matching experience for students seeking internships that will more effectively locate relevant and exciting opportunities. Bettership also creates mutual accountability by requiring students to log internship hours and provide feedback on their experience for institutions and future students alike.
 
+You can find the deployed site [here](bettership-9f962.firebaseapp.com)
+
 ## Installation
 
 Run `npm install` to install dependencies.
